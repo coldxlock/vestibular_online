@@ -132,8 +132,12 @@ header("location:index.php");
 <link href='http://fonts.googleapis.com/css?family=Poppins:400,700,300' rel='stylesheet' type='text/css'>
 
 <style>
-  * {
-      /* font-family: 'Poppins' !important; */
+  p {
+      font-family: 'Poppins' !important;
+      /* color: #525151; */
+      
+      color: #272727;
+      font-weight: 500;
     }
 </style>
  <!--alert message-->
